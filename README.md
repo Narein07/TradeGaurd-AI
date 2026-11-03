@@ -1,3 +1,33 @@
+<h1 align="center">🛡️ RiskLock</h1>
+
+---
+
+<p align="center">
+  <strong>Real-Time Pre-Trade Risk Engine & High-Frequency Trading Circuit Breaker</strong>
+</p>
+
+<p align="center">
+  <strong>Sub-millisecond risk checks | Live Candlestick Analytics | Emergency Kill Switch</strong>
+</p>
+
+<p align="center">
+  <a href="https://ais-pre-5h5li64qh3jpmykiekilhs-793037711970.asia-southeast1.run.app"><strong>View in AI Studio</strong></a>
+</p>
+
+---
+
+## 🚀 Overview
+
+RiskLock is a state-of-the-art pre-trade risk management and algorithmic safety platform designed specifically for high-frequency trading (HFT) and retail brokerage environments. It doesn't just process orders; it evaluates risk in **sub-millisecond intervals** by auditing margin exposure, runaway order frequency, fat-finger price deviance, and server version drift before orders reach stock exchanges (NSE / BSE).
+
+---
+
+## ✨ Core Features
+
+- 🛡️ **Sub-Millisecond Risk Filtering**: Automatically calculates and rejects orders exceeding firm-wide exposure or single-order size limits in real-time.
+- 🚨 **Emergency Kill Switch**: A global system-wide lockdown gesture that instantly cancels active orders and disables outbound order routing.
+- 📊 **Real-Time Candlestick Monitoring**: Live streaming OHLCV charts across top Indian equities (RELIANCE, TCS, INFY, HDFCBANK, ICICIBANK).
+- 🧪 **Interactive Rogue Loop Simulator**: Demonstrates automated circuit breaker mitigation against high-frequency runaway order loops.
 # 🛡️ RiskLock — Automated Pre-Trade Risk & Circuit-Breaker Engine
 
 > **"Detect the Anomaly. Stop the Damage. Protect the Capital."**
